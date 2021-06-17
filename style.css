@@ -1,0 +1,51 @@
+.bag {
+    width: 100%;
+    height: 100vh;
+    background-image: url(1234.png);
+    background-size: cover;
+}
+
+.nav {
+    position: absolute;
+    right: -0px;
+    margin: 1% 2% 1% 2%;
+    font-size: 20px;
+    font-weight:bold;
+    
+    
+}
+.bag2{
+    width: 100%;
+    height: 100vh;
+    background-color:floralwhite;
+    background-size: cover;
+}
+
+.bag2 .row{
+    height: 50vh;
+}
+
+.bag2 .col-4{
+    height: 300px;
+}
+
+.bag2 .col{
+    height: 250px;
+    margin: 15px;
+}
+h1{
+    font-weight: bold;
+    font-size: 20px
+}
+p{
+    font-size: 14px;
+    margin: 0;
+}
+.col-1{
+    height: 20vh;
+    width: 100%;
+}
+h3{
+    width: 60%;
+    margin:0% 20% 0% 20%;
+}
